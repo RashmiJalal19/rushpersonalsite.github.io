@@ -1,0 +1,19 @@
+
+body{
+  background-color:powderblue;
+  margin-left: 250px;
+}
+h1{
+  color:Blue;
+}
+hr{
+background-color:blue;
+border-top-style: dotted;
+border-color: grey;
+height:0px;
+width:100px;
+
+}img {height:170px;
+width :129px;
+margin-left: 100px;
+}
